@@ -17,7 +17,8 @@ Kafka
 -----
 
 * cd kafka
-* make all
+* make build
+* cd hello_world
 * python consumer.py
 * python producer.py
 * open localhost:9021
@@ -26,10 +27,16 @@ Kafka
 NATS
 ----
 
-* TBD
+* cs nats
+* make build
+* python client.py
 
 
 Pulsar
 ------
 
-* TBD
+* cd pulsar
+* make build
+* cd hello_world
+* python consumer.py
+* python producer.py
