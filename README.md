@@ -1,4 +1,5 @@
-# Qs
+Qs
+==
 
 PoC || GTFO of the distributed queues landscape
 
@@ -12,7 +13,8 @@ For each of the following we will:
 6) Explore some features e.g. delivery semantics etc.
 
 
-## Kafka
+Kafka
+-----
 
 * cd kafka
 * make all
@@ -21,11 +23,13 @@ For each of the following we will:
 * open localhost:9021
 
 
-## NATS
+NATS
+----
 
 * TBD
 
 
-## Pulsar
+Pulsar
+------
 
 * TBD
